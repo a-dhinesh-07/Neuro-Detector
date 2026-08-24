@@ -35,3 +35,5 @@ The project involves:
 3. Training a Random Forest classifier on labeled EEG data
 4. Evaluating model performance with accuracy metrics
 
+##Only few datasets have been added here rest and these all were acquired from Kaggle
+
